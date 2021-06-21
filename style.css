@@ -195,7 +195,7 @@ body{
 
 .right .right-img1{
     position: absolute;
-    background-image: url('home.jpg');
+    background-image: url('child.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
